@@ -1,0 +1,1 @@
+let median_c a b c = min (min (max a b) (max b c)) (min (max b c) (max a c));;

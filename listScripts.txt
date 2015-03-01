@@ -1,0 +1,36 @@
+distance a:int b:int
+max_custom a:int b:int
+abs_custom a:int
+maxf a:int b:int
+noteFDS noteExam:int noteCC:int coeffExam:int coeffCC:int
+max3_v1 a:int b:int c:int
+max3_v2 a:int b:int c:int
+plusProche a:int b:int x:int
+median_c ((a,b,c):float*float*float)
+xor_v1 ((a,b):bool*bool)
+xor_v2 ((a,b):bool*bool)
+addRecurse ((n):int)
+sommeInterv ((a,b):int*int)
+fibonacci ((n, a, b):int*int*int)
+carre ((n):int)
+estPair ((n):int)
+sumOdd ((n, sum):int*int)
+estPremier ((n, div):int*int)
+mul ((a, b):int*int)
+power ((a, b):int*int)
+nbRepart ((n, b):int*int)
+inverse2 l
+listeEntiers l
+maxList l
+derListe l
+derListe_
+appartientLi l item
+nbOccListe ?(n=0) l item
+tousPairs l
+listesEgales l1 l2
+prefix l1 l2
+suffix l1 l2
+listeInversee ?(outList=[]) inList
+fusion ?(out=[]) l1 l2
+listeSuffixes ?(suffixes=[]) l
+listePrefixes ?(current=[]) ?(lists=[]) ?(n=0) ?(i=(-1)) l

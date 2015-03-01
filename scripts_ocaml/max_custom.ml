@@ -1,0 +1,1 @@
+let max_custom a b = if a<b then b else a;;

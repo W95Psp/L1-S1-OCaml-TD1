@@ -1,0 +1,1 @@
+let distance a b = abs(a-b);;
